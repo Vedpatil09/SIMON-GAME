@@ -1,2 +1,3 @@
-# SIMON-GAME
-SIMON GAME REPO
+# SIMON_GAME
+
+https://simongame1144.netlify.app/
